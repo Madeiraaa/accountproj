@@ -18,7 +18,7 @@ Page({
     subtitle: '',
     comment: '',
     cost: '',
-    date: '2016-09-01',
+    date: '2019-12-01',
     time: '12:01',
     hasLocation: false,
     location: {},
