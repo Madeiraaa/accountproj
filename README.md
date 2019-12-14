@@ -41,11 +41,11 @@ c. 兴奋性需求：记账定位，可以生成消费轨迹；生成消费统�
 
 运行页面
 
-![图片](https://uploader.shimo.im/f/Bcf9Ciyl9vU1dIXH.png!thumbnail)
+![图片](https://uploader.shimo.im/f/Bcf9Ciyl9vU1dIXH.png)
 
 
 ## 二、小程序结构图
-![图片](https://uploader.shimo.im/f/3SbdR6hdDhkQoZUm.png!thumbnail)
+![图片](https://uploader.shimo.im/f/3SbdR6hdDhkQoZUm.png)
 
 
 ## 三、小程序展示
