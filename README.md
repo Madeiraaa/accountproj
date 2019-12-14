@@ -1,11 +1,12 @@
 ### 学号：16340175
 ### 姓名：欧友特
 ## 一、我的账簿小程序概况
-1. 小程序简介
+###1. 小程序简介
 
 我的账簿主要面向喜爱记录自己日常开销的人们，以微信小程序的方式展现，主打方便快捷，打开微信随手即可记录。定位位置，旅行足迹等功能，不止显示了冰冷的数字，而是试图通过消费，尽可能生动地记录用户的行程。
 
-2. 目标用户&用户需求
+
+###2. 目标用户&用户需求
 
 目标用户：主要面向学95后学生
 
@@ -17,13 +18,15 @@ b. 期望型需求：详细的消费类型、消费备注
 
 c. 兴奋性需求：记账定位，可以生成消费轨迹；生成消费统计图
 
-3. 产品亮点
+
+###3. 产品亮点
 
 记账可以随手定位，用户可以生成属于自己的消费轨迹图，以另一种方式记录自己的生活。
 
 生成消费统计图，用户可以直观的了解到日常开销的占比。
 
-1. 运行环境
+
+###4. 运行环境
 
 前往小程序官方网站下载【微信开发者工具】
 
@@ -35,15 +38,18 @@ c. 兴奋性需求：记账定位，可以生成消费轨迹；生成消费统�
 
 ![图片](https://uploader.shimo.im/f/OvnQZnI5zjs2ip4j.png!thumbnail)
 
+
 运行页面
 
 ![图片](https://uploader.shimo.im/f/Bcf9Ciyl9vU1dIXH.png!thumbnail)
 
+
 ## 二、小程序结构图
 ![图片](https://uploader.shimo.im/f/3SbdR6hdDhkQoZUm.png!thumbnail)
 
+
 ## 三、小程序展示
-1. 小程序首页
+###1. 小程序首页
 
 在首页可以新建一个账目
 
@@ -55,7 +61,8 @@ c. 兴奋性需求：记账定位，可以生成消费轨迹；生成消费统�
 
 ![图片](https://uploader.shimo.im/f/ouG052D4ICYmGn8z.png!thumbnail)
 
-2. 开始记账
+
+###2. 开始记账
 
 ![图片](https://uploader.shimo.im/f/LOskAZmfUmsd1dSE.png!thumbnail)  ![图片](https://uploader.shimo.im/f/IIjP6SfQjNoyTmCT.png!thumbnail)  ![图片](https://uploader.shimo.im/f/rYCenfEV9gMEMESU.png!thumbnail)
 
@@ -69,7 +76,8 @@ c. 兴奋性需求：记账定位，可以生成消费轨迹；生成消费统�
 
 ![图片](https://uploader.shimo.im/f/Yax8fq0zRGQUjab5.PNG!thumbnail)  ![图片](https://uploader.shimo.im/f/LpMGSq4wjzgUpI83.PNG!thumbnail)
 
-3. 设置界面
+
+###3. 设置界面
 
 可以设置账目分类，新增账目分类：
 
